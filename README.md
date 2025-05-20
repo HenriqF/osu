@@ -26,4 +26,4 @@ api = OssapiAsync(0, "suassenha:)") #idcliente e senha. pra cirar vai no site do
 
 <h2></h2>
 
-#### [[mais info da api do osu]](https://github.com/tybug/ossapi)
+#### Não fica spammando a API, é contra os [[termos de uso]](https://osu.ppy.sh/docs/#terms-of-use) ; [[mais info ossapi]](https://github.com/tybug/ossapi)
